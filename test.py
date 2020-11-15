@@ -3,7 +3,8 @@ import math
 def add(a, b):
     return a + b
 
-def subtract(a, b):
+def subtract(a, b, c = True):
+    print(c)
     return a - b
 
 def division(a, b):
