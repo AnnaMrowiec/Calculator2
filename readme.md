@@ -1,6 +1,1 @@
-testujemy commity
-
-jakieś głupoty
-
-dfghjk
-fghjk
+Testing GitKraken and commits
